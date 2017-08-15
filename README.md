@@ -18,6 +18,6 @@ Once Valet is installed you're ready to start serving sites. Valet provides two 
 	* Create Laravel site within the direstory: `laravel new app`.
 	* Open `http://app.dev` in your browser.
 
-3. Install Dependencies
+3. Installation of Dependencies
 	* Run `composer install`
 	* Run `npm install`
