@@ -17,3 +17,7 @@ Once Valet is installed you're ready to start serving sites. Valet provides two 
 	* Move to the directory you created `cd Sites` and run `valet park` This command will register your current working directory as a path that Valet should search for sites.
 	* Create Laravel site within the direstory: `laravel new app`.
 	* Open `http://app.dev` in your browser.
+
+3. Install Dependencies
+	* Run `composer install`
+	* Run `npm install`
